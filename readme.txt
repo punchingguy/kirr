@@ -1,6 +1,6 @@
-1.) This django projects works on local domain :-http://www.tirr.com:8000.
+1.) This django project works on local domain :-http://www.tirr.com:8000.
 2.) So you have to go in directry :- C:\Windows\System32\drivers\etc.
-3.) Then open the hosts file using vscode ,(*only open in vscode inorder to saves the changes youhave made).
+3.) Then open the hosts file using vscode ,(*only open in vscode inorder to saves the changes you have made).
 4.) Then add this to hosts file
     	127.0.0.1          tirr.com
 	127.0.0.1          www.tirr.com
