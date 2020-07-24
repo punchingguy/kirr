@@ -1,0 +1,16 @@
+asgiref==3.2.7
+dj-database-url==0.5.0
+dj-static==0.0.6
+Django==3.0.7
+django-hosts==4.0
+docopt==0.6.2
+gitignore==0.0.8
+gunicorn @ file:///C:/Users/Tron%20Leo/projects/kirr/src/gunicorn-20.0.4-py2.py3-none-any.whl
+importlib==1.0.4
+mysqlclient @ file:///C:/Users/Tron%20Leo/projects/djangoproject/mysqlclient-1.4.6-cp38-cp38-win32.whl
+Pillow @ file:///C:/Users/Tron%20Leo/projects/djangoproject/Pillow-7.1.2-cp38-cp38-win32.whl
+psycopg2==2.8.5
+pytz==2020.1
+sqlparse==0.3.1
+static3==0.7.0
+whitenoise==5.1.0
